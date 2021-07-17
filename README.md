@@ -1,2 +1,3 @@
 # U-Net
-U-Net implementation
+Implement U-Net on CT dataset
+
